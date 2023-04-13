@@ -22,23 +22,24 @@ Going through this projects helps us understands the use of a couple of tools in
 To launch this project after cloning it, run:
 
 - Create and activate a virtual environment:
-    ```bash
-        $ virtualenv <name>
+    
+```bash
+    virtualenv <name>
 
-        $ source <name>/bin/activate
-    ```
+    source <name>/bin/activate
+```
 
 - Install dependencies:
     ```bash
         pip install -r requirements.txt
     ```
 - Run migrations:
-    ```bash
-        $ python manage.py makemigrations 
+```bash
+    python manage.py makemigrations 
 
-        $ python manage.py migrate 
-    ```
+    python manage.py migrate 
+```
 - Run server:
-    ```bash
-        python manage.py runserver
-    ```
+```bash
+    python manage.py runserver
+```
