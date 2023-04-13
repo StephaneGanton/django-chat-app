@@ -1,7 +1,7 @@
 # Django-ChatApp
 
 In this project, we made a simple chat app App using Django.
-Use also use **websockets** and a package called: [Channels](https://pypi.org/project/channels/)
+We also use **websockets** and a package called: [Channels](https://pypi.org/project/channels/)
 
 ## Motivation
 
